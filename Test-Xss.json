@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/jzee-rx/Test/new/main/Test-Xss.yaml",
+    "url": "https://raw.githubusercontent.com/jzee-rx/Test/blob/main/Test-Xss.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/jzee-rx/Test/new/main/Test-Xss.yaml",
+            "url": "https://raw.githubusercontent.com/jzee-rx/Test/blob/main/Test-Xss.yaml",
             "name": "Xss-Test"
         }
     ]
