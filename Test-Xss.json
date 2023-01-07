@@ -1,9 +1,9 @@
 {
-   "url":"https://raw.githubusercontent.com/Tounsi007/SWAGGERXSS/main/xss.yaml",
-   "urls":[
-      {
-         "url":"https://raw.githubusercontent.com/Tounsi007/SWAGGERXSS/main/xss.yaml",
-         "name":"Foo"
-      }
-   ]
+    "url": "https://raw.githubusercontent.com/jzee-rx/Test/main/Test-Xss.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/jzee-rx/Test/main/Test-Xss.yaml",
+            "name": "Xss-Test"
+        }
+    ]
 }
